@@ -1,0 +1,17 @@
+/* Styles pour la liste */
+ul#listCafe {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul#listCafe li {
+    padding: 10px;
+    margin: 5px 0;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    cursor: pointer;
+}
+
+ul#listCafe li:hover {
+    background-color: #e0e0e0;
+}
